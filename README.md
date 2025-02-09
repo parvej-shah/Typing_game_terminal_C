@@ -68,4 +68,5 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 - **Blue**: Information (e.g., progress updates)
 - **White**: Default text
 
-## Developed By **` Parvej Shah, Institute of Information And Technology, Dhaka University `**
+## Developed By 
+**` Parvej Shah, Institute of Information And Technology, Dhaka University `**
