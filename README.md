@@ -12,7 +12,7 @@ Welcome to the **Typing Speed Test Game**, a terminal-based typing game built us
 
 ## Requirements
 
-- **C Compiler** (e.g., GCC)
+- **C Compiler** (`GCC`)
 - **ncurses library** for handling terminal input/output and colors.
 
 To install **ncurses** on Ubuntu/Debian, run:
@@ -68,5 +68,4 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 - **Blue**: Information (e.g., progress updates)
 - **White**: Default text
 
-## Developed By
-**`Parvej Shah, Institute of Information And Technology, Dhaka Universirty`**
+## Developed By **` Parvej Shah, Institute of Information And Technology, Dhaka University `**
